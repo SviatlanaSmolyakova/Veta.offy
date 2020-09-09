@@ -1,5 +1,5 @@
 # Veta.offy
-Здравствуйте!  Хочу научиться программированию, поэтому решила начать с RS School!
-Мои познания английского печальны, но я имею боевой дух и готова учиться!
-Не могу сказать что знаю компьютер на уровне Мастера, но быстро нахожу "нужные кнопки", когда мне это действительно нужно.
-Считаю, что у меня есть потенциал и я готова наконец-то полностью открыть его миру ;)
+Hello! I want to learn programming, so I decided to start right now!
+My knowledge of English is sad, but I have a fighting spirit and am ready to learn!
+I can't say that I know a computer at the level of a Master, but I quickly find the "necessary buttons" when I really need it.
+I believe that I have potential and I am ready to finally fully open it to the world;)
